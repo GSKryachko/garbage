@@ -1,2 +1,2 @@
 alert();
-window.unload=alert;
+window.onload=alert;
